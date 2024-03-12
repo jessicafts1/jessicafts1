@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu currículo</title>
+</head>
+<body>
+
+    <h1 style="text-align:Center; font-family: Arial, Helvetica, sans-serif;"> Jéssica Freitas</h1>
+  <p style="text-align: right;"> Rua Silveira Martins, 433, Salvador-BA <img src="https://cdn-icons-png.flaticon.com/512/535/535239.png" width="15" alt="Localização">
+  <br> (71) 99209-3456 <img src="https://cdn.icon-icons.com/icons2/614/PNG/512/phone-volume_icon-icons.com_56474.png" width="15" alt="Telefone">
+<br> jessicafts1@gmail.com <img src="https://w7.pngwing.com/pngs/110/349/png-transparent-email-computer-icons-logo-email-miscellaneous-angle-logo.png" width="15" alt="Email">
+</p>    
+<hr>
+<h2>Resumo</h2>
+<p style="text-align: justify;">Profissional em transição de carreira da área de saúde para Desenvolvimento Web,
+     tendo experiência quase nula em HTML, CSS, Javascript, busco na ousadia e 
+     alegria atuar como desenvolvedora Front-End, aplicando soluções eficientes
+      e compreendendo as necessidades dos usuários. Atualmente estou cursando Análise de Dados 
+      e Programação Full Stack.  </p>
+<hr> 
+<h2>Habilidades</h2>
+<ul>
+    <li>Inglês intermediário</li>
+    <li>Organização</li>
+    <li>Raciocínio Lógico</li>
+    <li>Rapidez no Aprendizado</li>
+    <li>Trabalho em Equipe</li>
+</ul>
+<hr>
+<h2>Experiências Profissionais</h2>
+<img src="https://vetplus.vet.br/wp-content/uploads/2019/12/tttttttt.png" width="100" alt="gatinho chorando muito">
+<p>Carregando...</p>
+<hr>
+<h2> Formação Acadêmica</h2>
+<p>03/2024 - 09/2026 </p>
+<h4>Graduação em andamento - Análise de Dados / UNIFACS, Salvador-BA</h4>
+<hr>
+<h2>Cursos e Cetificados </h2>
+<p>02/2024 - 05/2025</p>
+<h4>Programção Full Stack / Infinity School, Salvador-BA</h4>
+<p>03/2024</p>
+<h4>Desenvolvedor e Programador de Software/ Escola do Trabalhador, Salvador-BA</h4>
+</body>
+</html>
